@@ -3,7 +3,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="ADBMobile"
       version="1.0.0">
-    <name>ADBMobile</name>
+    <name>com.adobe.ADBMobile</name>
     <description>Adobe Mobile Services Plugin</description>
  
 	<js-module src="sdks/Cordova/ADBMobile/Shared/ADB_Helper.js" name="ADB">
